@@ -1,0 +1,25 @@
+@media (max-width:991px) {
+    .navbar-light .navbar-nav .nav-link {
+        color: rgba(255,255,255, 1);
+        font-size: 20px;
+        padding: 10px 20px;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    .banner_txt {
+        left: 0%;
+    }
+    .banner_txt h2 {
+        font-size: 28px;
+    }
+    .banner_txt h6 {
+        font-size: 17px;
+    }
+
+    .btn {
+        padding: 1.1rem 4rem;
+    }
+    .contact_cart{
+        margin-bottom: 30px;
+    }
+}
